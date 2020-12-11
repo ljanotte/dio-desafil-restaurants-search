@@ -21,9 +21,9 @@ Dio Innovation - Criando um site para encontrar restaurantes usando Google
 <br>
 
 <p align="center">
-  <a href="https://github.com/ljanotte/dio-desafil-webappreact-covid19#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ljanotte/dio-desafil-webappreact-covid19#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/ljanotte/dio-desafil-webappreact-covid19#-baixar">Baixar</a>
+  <a href="https://github.com/ljanotte/dio-desafil-restaurants-search#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ljanotte/dio-desafil-restaurants-search#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/ljanotte/dio-desafil-restaurants-search#-baixar">Baixar</a>
 </p>
 
 ---
